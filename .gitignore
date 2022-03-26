@@ -1,0 +1,6 @@
+*.exe
+*.exe~
+**/logs
+** debug?.log
+** debug.log
+*.pdf
